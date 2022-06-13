@@ -1,0 +1,36 @@
+{
+  "clients": [
+    {
+      "name": "Yeudy Carazo",
+      "company": "Yeudevs",
+      "email": "yeucprendas@gmail.com",
+      "phone": "71941273",
+      "notes": "",
+      "id": 1
+    },
+    {
+      "name": "Jose Carazo",
+      "company": "Yeudevs",
+      "email": "josecarazo@gmail.com",
+      "phone": "71941273",
+      "notes": "",
+      "id": 2
+    },
+    {
+      "name": "María",
+      "company": "Yeudevs",
+      "email": "maria@gmail.com",
+      "phone": "71941273",
+      "notes": "",
+      "id": 3
+    },
+    {
+      "name": "Jose Prendas",
+      "company": "Yeudevs",
+      "email": "yeucprendas@gmail.com",
+      "phone": "71941273",
+      "notes": "",
+      "id": 6
+    }
+  ]
+}
